@@ -1,0 +1,41 @@
+_repo: The-Romance-of-Leonardo-da-Vinci-the-Forerunner_47902
+alternative_title: Voskresshie bogi. English
+contributor:
+  translator:
+    agent_name: Trench, Herbert
+    birthdate: &id001 1865
+    deathdate: 1923
+    gutenberg_agent_id: '43814'
+    url: http://www.gutenberg.org/2009/agents/43814
+creator:
+  author:
+    agent_name: Merezhkovsky, Dmitry Sergeyevich
+    aliases:
+    - Merejkowski, Dmitri
+    - Мережковский, Дмитрий Сергеевич
+    - Mérejkowsky, Dmitry de
+    - Mérejkowski, Dmitri
+    - Merejkowsky, Dmitry de
+    birthdate: *id001
+    deathdate: 1941
+    gutenberg_agent_id: '36721'
+    url: http://www.gutenberg.org/2009/agents/36721
+    wikipedia: http://en.wikipedia.org/wiki/Dmitry_Merezhkovsky
+description: Biografisk roman om Leonardo da Vinci, illustreret med reproduktioner
+  af hans tegninger
+gutenberg_issued: '2015-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47902'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Leonardo, da Vinci, 1452-1519 -- Fiction'
+- !lcsh 'Italy -- Fiction'
+- !lcsh 'Biographical fiction'
+- !lcsh 'Artists -- Fiction'
+title: The Romance of Leonardo da Vinci, the Forerunner
+url: http://www.gutenberg.org/ebooks/47902
